@@ -14,3 +14,5 @@ git checkout branchName -> switch to that branch
 git checkout -b branchName -> create a new branch and then switch to that branch
 
 Branching strategy - 
+
+I m testing how the branches work
