@@ -21,6 +21,6 @@ I m testing how the branches work
 Clone this project -> https://github.com/prgara/JavaJune26.git
 create a feature name from main/master
 create a new file and add some content to it
-commit those changes 
+commit those changes
 merge those changes in the main branch
 
