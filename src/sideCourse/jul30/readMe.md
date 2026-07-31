@@ -34,16 +34,8 @@ Usual-Flow
 - Approved
 - Merge
 
-reset - Not shared with others (not pushed yet) ---- deletes the commit history
-revert - Already shared the changes with the team (pushed your changes) ---- it maintains the commit history
-
-
-C1 - C2 - C3 - C4 - C5 (C2)
-
-git reset --hard 445111ef21e29dd4892c64d5319640a58b02e3fa
-git revert 445111ef21e29dd4892c64d5319640a58b02e3fa
-
-
+nsdkfhnewl fnen
+freknfonefkle
 
 sahidhwkhoidw
 
