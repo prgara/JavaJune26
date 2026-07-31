@@ -4,7 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
     Vehicle vehicle1 = new Vehicle("Tesla");
-    Student student = new Student();
+    Vehicle vehicle2 = new Vehicle("Tesla");
+
+
 
     }
 }
