@@ -10,5 +10,10 @@ public class Student {
         this.rollNo = rollNo;
         this.name = name;
         this.schoolName = schoolName;
+    String school;
+
+    Student(String school)
+    {
+        System.out.println(school);
     }
 }
